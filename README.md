@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WladHinz
+- 👀 I’m interested in building stuff
+- 🌱 I’m currently learning Python libraries
+- 💞️ I’m looking to collaborate on anything really!
+- 📫 www.wladimirhinz.com

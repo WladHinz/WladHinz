@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WladHinz
+- 👋 Hi, I’m Wlad
 - 👀 I’m interested in building stuff
 - 🌱 I’m currently learning Python libraries
 - 💞️ I’m looking to collaborate on anything really!

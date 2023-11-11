@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Wlad
 - 👀 I’m interested in building stuff
-- 📫 [Updated CV](https://wladhinz.github.io/cv/).
+- 📫 [My CV](https://wladhinz.github.io/cv/).

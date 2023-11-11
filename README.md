@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Wlad
 - 👀 I’m interested in building stuff
-- 🌱 I’m currently learning Python libraries
-- 💞️ I’m looking to collaborate on anything really!
 - 📫 [Updated CV](https://wladhinz.github.io/cv/).
